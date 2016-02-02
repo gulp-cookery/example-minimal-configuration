@@ -1,7 +1,7 @@
 {
   "name": "example-minimal-configuration",
   "version": "0.1.0",
-  "description": "",
+  "description": "Demonstrates minimal configuration with gulp-chef.",
   "main": "index.js",
   "author": "Amobiz",
   "license": "MIT",
